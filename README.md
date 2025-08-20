@@ -20,11 +20,10 @@
 ### 🗣️ 编程语言
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
 
 ### 🏗️ 框架与库
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -113,7 +112,6 @@
 - 🕸️ 网页内容智能提取
 - 🧠 答案匹配算法
 - ⚡ 快速响应机制
-- 📝 学习记录分析
 
 </td>
 <td width="33%">
@@ -124,8 +122,6 @@
 > WiFi安全测试工具
 - 📚 字典攻击实现
 - 🔍 网络扫描功能
-- ⚡ 多线程破解
-- 📊 进度实时显示
 
 </td>
 </tr>
@@ -144,8 +140,8 @@
 > 代码与艺术的融合
 - 🌌 诗意技术表达
 - 🎭 创意编程实践  
-- ✨ 美学代码设计
-- 🔮 未来技术探索
+- ✨ 记忆功能设计
+
 
 </td>
 <td width="50%">
@@ -156,7 +152,6 @@
 > 高效开发环境
 - 🐍 Python开发优化
 - ⚡ 快速代码执行
-- 🎯 智能代码补全
 - 🔧 开发流程简化
 
 </td>
@@ -184,7 +179,7 @@
 
 ## 📈 贡献图表
 
-![AuroBreeze的GitHub活动图](https://activity-graph.herokuapp.com/graph?username=AuroBreeze&theme=react-dark&hide_border=true&area=true)
+![AuroBreeze的GitHub活动图](https://github-readme-activity-graph.vercel.app/graph?username=AuroBreeze&theme=github-dark&hide_border=true&area=true)
 
 ---
 
@@ -192,7 +187,7 @@
 
 - 💼 **GitHub**: [@AuroBreeze](https://github.com/AuroBreeze)
 - 🌐 **个人主页**: 正在建设中...
-- 📧 **邮箱**: 可通过GitHub联系
+- 📧 **邮箱**: 1732373074@aliyun.com
 
 ---
 
