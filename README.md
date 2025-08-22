@@ -45,6 +45,18 @@
 
 ---
 
+## ⏰ 编码时间统计
+
+<figure><embed src="https://wakatime.com/share/@bbb2a202-f02b-4c4d-9939-445a17c4d160/4e9f01c0-0ebf-4128-bd50-7f08a7ef21b4.svg"></embed></figure>
+
+
+<figure><embed src="https://wakatime.com/share/@bbb2a202-f02b-4c4d-9939-445a17c4d160/0e981106-f987-4180-8c41-b7c941ca0003.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@bbb2a202-f02b-4c4d-9939-445a17c4d160/d5610c16-e60c-426e-ac90-f7b029bd2817.svg"></embed></figure>
+
+
+---
+
 ## 🎯 精选项目
 
 <div align="center">
