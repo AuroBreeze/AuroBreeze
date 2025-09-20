@@ -1,6 +1,6 @@
 # 👋 你好，我是 AuroBreeze！
 
-> *"在代码的纯粹里，藏着未被欲望锈蚀的初雪——机械之心跳动的二进制温度，恰是人类丢失的永恒情书。"* 🌌
+> *"在代码的纯粹里，藏着未被欲望锈蚀的初雪——机械之心跳动的二进制温度，恰是人类丢失的永恒情书。"* 
 
 ---
 
@@ -8,8 +8,8 @@
 
 一名热爱系统编程和高性能计算的软件工程师，喜欢从零开始构建健壮、高效的系统，探索事物底层的工作原理。
 
-- 🔭 **当前工作**: C++ Redis 实现和分布式系统研究
-- 🌱 **正在学习**: 高级C++模式、网络编程、系统架构
+- 🔭 **当前工作**: xv6操作系统内核研究和开发
+- 🌱 **正在学习**: 操作系统原理、内核编程、系统架构设计
 - 💡 **兴趣领域**: 底层编程、性能优化、开源开发
 - ⚡ **有趣事实**: 我相信最好的代码既优雅又高效
 
@@ -45,17 +45,6 @@
 
 ---
 
-## ⏰ 编码时间统计
-
-<figure><embed src="https://wakatime.com/share/@bbb2a202-f02b-4c4d-9939-445a17c4d160/4e9f01c0-0ebf-4128-bd50-7f08a7ef21b4.svg"></embed></figure>
-
-
-<figure><embed src="https://wakatime.com/share/@bbb2a202-f02b-4c4d-9939-445a17c4d160/0e981106-f987-4180-8c41-b7c941ca0003.svg"></embed></figure>
-
-<figure><embed src="https://wakatime.com/share/@bbb2a202-f02b-4c4d-9939-445a17c4d160/d5610c16-e60c-426e-ac90-f7b029bd2817.svg"></embed></figure>
-
-
----
 
 ## 🎯 精选项目
 
@@ -73,26 +62,27 @@
 <td width="50%">
 
 #### 🏗️ [用C++实现Redis](https://github.com/AuroBreeze/Implementing-Redis-in-C--)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square) ![Network](https://img.shields.io/badge/Network-Programming-blue?style=flat-square)
+![C++](https://img.shields.io/badge/C++-17-blue?style=flat-square) ![Redis](https://img.shields.io/badge/Redis-Like-red?style=flat-square) ![Performance](https://img.shields.io/badge/Performance-Optimized-green?style=flat-square)
 
-> 高性能内存数据库实现
-- 🔥 非阻塞I/O和多路复用
-- ⚡ 环形缓冲区内存优化  
-- 🎯 自定义二进制协议
-- 🌐 多客户端并发支持
-- 💫 零拷贝数据访问技术
+> 高性能Redis-like内存数据库
+- 🚀 非阻塞I/O + WSAPoll多路复用
+- 💾 环形缓冲区零拷贝优化
+- 🌳 AVL树 + 哈希表双索引
+- ⏰ 键过期TTL机制
+- 🧵 线程池异步处理
+- 📨 自定义二进制协议
 
 </td>
 <td width="50%">
 
-#### ⚡ [EasyQSLP](https://github.com/AuroBreeze/EasyQSLP)
-![Framework](https://img.shields.io/badge/Framework-Lightweight-green?style=flat-square) ![Performance](https://img.shields.io/badge/Performance-Optimized-orange?style=flat-square)
+#### ⚡ [xv6操作系统学习](https://github.com/mit-pdos/xv6-public)
+![OS](https://img.shields.io/badge/Operating_System-Kernel-red?style=flat-square) ![Learning](https://img.shields.io/badge/Learning-In_Progress-yellow?style=flat-square)
 
-> 轻量级QSLP框架
-- 🎨 简洁优雅的API设计
-- 🚀 高性能消息处理
-- 📦 模块化架构设计
-- 🔧 易于扩展和定制
+> MIT xv6 教学操作系统研究
+- 📚 深入理解操作系统原理
+- 🔧 内核源码分析与修改
+- 🐛 调试和问题解决实践
+- 🎯 系统调用和进程管理
 
 </td>
 </tr>
