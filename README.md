@@ -7,7 +7,7 @@
 
 ---
 
-### ❄️ About me
+### About me
 
 - Undergrad focused on **Operating Systems & Low-level Engineering**.
 - Passionate about building bare-metal software using **C, Rust, and Assembly**.
@@ -17,7 +17,7 @@
 
 ---
 
-### 📫 Contact
+### Contact
 
 - GitHub: [`@AuroBreeze`](https://github.com/AuroBreeze)
 - Email: `1732373074@aliyun.com`
